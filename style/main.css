@@ -1,0 +1,21 @@
+@font-face {
+font-family:'Open Sans';
+font-style:normal;
+font-weight:400;
+src:local('Open Sans'), local('OpenSans'),url(//fonts.gstatic.com/s/opensans/v13/K88pR3goAWT7BTt32Z01mxJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+html,body,div,span,applet,object,amp-iframe,h1,h2,h3,h4, h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,amp-img,ins,kbd,q,s,samp,small, strike,strong, sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video,ol,ul,article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section,.widget,.widget-content,#blog-pager,#blog1,.post,.hentry,.post-body,.post-title,.entry-title{
+margin:0;padding:0;border:0;font-family:'Open Sans',sans-serif;letter-spacing:0px;font-size:14px;-webkit-font-smoothing:antialiased;color:#444444;background:none;}b,strong{font-weight:bold;}
+blockquote, q{quotes:none;}
+blockquote:before,blockquote:after, q:before,q:after{content:none;}
+table{border-collapse:collapse;border-spacing:0;}
+*,*:after,*:before{-webkit-box-sizing:border-box;box-sizing:border-box;}
+a.skip-main:focus,a.skip-main:active{color:#444444; background-color:#FFF4CC;left:0px;top:0px; right:0px;width:100%;height:auto; overflow:hidden;margin:0px auto;padding:7px 0px;text-align:center;font-size:1.2em; z-index:99999;}
+.clear{clear:both;}
+header,section,.widget,h1,h2,h3,h4,h5,h6,ol,ul,li,nav,aside,body,abbr,code,pre,blockquote,footer,article{word-wrap:break-word;}
+abbr{border:0px;text-decoration:none;}
+html{width:100%;background:#ffffff;height:100%;}
+body,.outer{font-family:'Open Sans',sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale;color:#444;font-size:14px;width:100%;margin:0px auto;padding:0px;}
+a{text-decoration:none;color:#1788C1;}
+a:hover{text-decoration:none;color:#4587F4;}
