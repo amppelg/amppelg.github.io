@@ -1,4 +1,3 @@
-<style amp-custom>
 @font-face {
 font-family:'Open Sans';
 font-style:normal;
@@ -20,4 +19,3 @@ html{width:100%;background:#ffffff;height:100%;}
 body,.outer{font-family:'Open Sans',sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale;color:#444;font-size:14px;width:100%;margin:0px auto;padding:0px;}
 a{text-decoration:none;color:#1788C1;}
 a:hover{text-decoration:none;color:#4587F4;}
-</style>
